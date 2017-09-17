@@ -19,4 +19,4 @@
 
 「仓颉输入法」Freenode IRC 频道 [#CJDFH](https://webchat.freenode.net/?channels=%23CJDFH)
 
-「仓颉输入法」TG 群组 [@cangjei](https://t.me/cangjei)
+「仓颉输入法」Telegram 群组 [@cangjei](https://t.me/cangjei)
