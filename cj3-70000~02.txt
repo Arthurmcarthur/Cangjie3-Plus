@@ -1,5 +1,5 @@
 encode=UTF-8
-name=五倉世紀
+name=倉頡三代Plus!
 key=abcdefghijklmnopqrstuvwxyz
 len=6
 wildcard=*
@@ -50780,7 +50780,7 @@ lcji   𧝧
 lcks   𠢥
 lclb   𢄖
 lcm    𧘒
-lcob   ������
+lcob   ������
 lcsh   𠛸
 lcwf   𧞌
 ldb    𧙞
