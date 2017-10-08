@@ -3697,6 +3697,7 @@ ehuc   灒
 ehuc   瀩
 ehuk   溴
 ehul   濞
+ehut   濞
 ehv    娑
 ehvd   泺
 ehvi   泜
@@ -3781,6 +3782,7 @@ ejbm   淔
 ejbv   淔
 ejbv   灢
 ejc    泬
+ejcb   潸
 ejcg   潌
 ejcg   漥
 ejck   湥
@@ -10038,6 +10040,7 @@ lhqo   袟
 lhsb   褊
 lhuc   襸
 lhul   襣
+lhut   襣
 lhvi   袛
 lhvp   衹
 lhxh   裑
@@ -15920,6 +15923,7 @@ qhuk   搝
 qhul   擤
 qhuo   擨
 qhuo   攒
+qhut   擤
 qhuu   撬
 qhvi   抵
 qhvif  絜
