@@ -4,7 +4,6 @@
 
 倉頡三代補完計畫，和 [Cangjie5](https://github.com/Jackchows/Cangjie5) 相關。
 
-### 初稿尚未完工，非技術人員暫勿使用！
 ## 反饋錯誤
 
 若發現錯誤，可在此處[反饋](https://github.com/Arthurmcarthur/Cangjie3-Plus/issues/new)。
