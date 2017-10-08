@@ -4,7 +4,6 @@
 
 仓颉三代补完计划，和 [Cangjie5](https://github.com/Jackchows/Cangjie5) 相关。
 
-### 初稿尚未完工，非技术人员暂勿使用！
 ## 反馈错误
 
 若发现错误，可在此处[反馈](https://github.com/Arthurmcarthur/Cangjie3-Plus/issues/new)。
