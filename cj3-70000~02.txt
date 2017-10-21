@@ -1473,7 +1473,7 @@ cbqr   錭
 cbsd   錚
 cbt    銏
 cbtu   鋼
-cbuv   龬
+cbtv   龬
 cbu    鉬
 cbuc   鋇
 cbue   钁
