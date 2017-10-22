@@ -2406,6 +2406,7 @@ demwl  麵
 demys  麫
 deon   麧
 depfd  麴
+depfd  龾
 depru  皰
 depru  麭
 depsu  皰
@@ -11155,6 +11156,7 @@ mfjd   祙
 mfjka  禇
 mfjr   祜
 mfk    奀
+mfke   鿆
 mfkr   祐
 mfks   勡
 mfl    祌
@@ -23379,6 +23381,7 @@ xddg   壄
 xddhn  檒
 xddw   榃
 xdefh  麨
+xdepf  龾
 xdepr  麭
 xdeps  麭
 xdffr  檆
