@@ -8119,7 +8119,6 @@ ime    冰
 imfq   冸
 imgce  凌
 imgeb  鿛
-imgi   鿑
 imgwc  凟
 imhgu  冼
 imig   庢
@@ -8134,6 +8133,7 @@ iml    冲
 imlq   冿
 imluf  凞
 imm    冮
+immgi  鿑
 immnn  冽
 immp   廲
 immvh  冴
