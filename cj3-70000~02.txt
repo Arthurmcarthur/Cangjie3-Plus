@@ -9123,7 +9123,7 @@ jskr   宭
 jsll   宦
 jsll   宧
 jsmh   寥
-jsoho  膥
+jsobo  膥
 jsp    愂
 jt     卉
 jt     卋
@@ -23962,6 +23962,7 @@ xmbtj  覇
 xmbuc  貢
 xmda   暦
 xmdyl  歴
+xme    反
 xmf    灭
 xmfbk  厰
 xmfbu  覔
