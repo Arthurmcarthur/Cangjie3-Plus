@@ -11156,6 +11156,7 @@ mfjd   祙
 mfjka  禇
 mfjr   祜
 mfk    奀
+mfke   鿆
 mfkr   祐
 mfks   勡
 mfl    祌
@@ -13607,8 +13608,8 @@ nvjbd  饽
 nvjbv  馕
 nvjpu  饶
 nvjrr  馆
-nvlmi  蜑
 nvlmi  蚀
+nvlmi  蜑
 nvlmo  馈
 nvmn   饤
 nvmrt  饾
@@ -18661,6 +18662,7 @@ tctd   業
 tcte   叢
 tctj   丵
 tcto   菐
+tctu   凿
 tcuj   凿
 tcvif  綦
 tcwm   酋
@@ -23237,6 +23239,7 @@ xafmu  晄
 xahaj  暤
 xahbr  晑
 xahqm  甠
+xahs   昈
 xaihs  晠
 xaj    旪
 xajka  暏
@@ -23322,6 +23325,7 @@ xcfbc  鑜
 xchdn  鋵
 xchha  鳻
 xchlo  鍁
+xchs   鈼
 xchwp  鎞
 xci    鈛
 xcid   鉥
@@ -24100,6 +24104,7 @@ xnsf   熃
 xnsll  弫
 xnumb  顄
 xnv    ⺄
+xnvlm  蜑
 xob    内
 xobhu  伣
 xodf   烋
