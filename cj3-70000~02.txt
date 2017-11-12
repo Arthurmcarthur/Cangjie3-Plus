@@ -240,6 +240,7 @@ anhni  闏
 anhpa  閽
 anhqu  閐
 anhrk  闙
+anhsx  閻
 anhud  闑
 anhx   閰
 aniav  閬
@@ -300,6 +301,7 @@ anrr   閭
 anrrj  闡
 anrrr  闆
 ansh   旸
+anshx  閻
 ansj   聞
 ansqf  闖
 ansrj  闢
@@ -1625,6 +1627,7 @@ chs    鈩
 chs    鈼
 chsb   鍽
 chsk   錑
+chsx   錎
 chu    尣
 chua   鑙
 chuc   鑽
@@ -2023,6 +2026,7 @@ csht   弅
 cshu   岔
 cshu   銫
 cshu   鋔
+cshx   錎
 csit   鑑
 csiu   鑬
 csj    鉺
@@ -3706,6 +3710,7 @@ ehse   溵
 ehsk   激
 ehsk   淚
 ehsu   滬
+ehsx   淊
 ehto   潨
 ehua   濳
 ehuc   灒
@@ -4243,6 +4248,7 @@ eshp   涊
 eshr   沼
 eshu   浘
 eshu   浼
+eshx   淊
 esim   澀
 esim   涩
 esip   涊
@@ -4926,6 +4932,7 @@ fhsf   爋
 fhsk   燩
 fhsm   煽
 fhsu   熩
+fhsx   焰
 fhu    灮
 fhup   熄
 fhvd   烁
@@ -5153,6 +5160,7 @@ fseg   熞
 fsei   爥
 fsh    灱
 fshr   炤
+fshx   焰
 fsit   爁
 fsll   烥
 fsm    当
@@ -5474,6 +5482,7 @@ ghrf   塢
 ghrj   埠
 ghrr   垖
 ghsk   墽
+ghsx   埳
 ghu    圥
 ghvi   坻
 ghvo   坬
@@ -5844,6 +5853,7 @@ gsav   堰
 gseq   墀
 gsfi   墛
 gshi   堍
+gshx   埳
 gsit   壏
 gsjt   壣
 gsl    壭
@@ -7340,6 +7350,7 @@ hshbr  扄
 hshml  所
 hshne  殷
 hshr   笤
+hshx   臽
 hsik   戾
 hsit   籃
 hsje   箃
@@ -7559,13 +7570,16 @@ hwtj   篳
 hx     臼
 hxbc   興
 hxbt   盥
+hxff   燄
 hxh    身
+hxhaf  鵮
 hxhu   兒
 hxjc   輿
 hxkc   舆
 hxlb   帠
 hxle   叟
 hxno   歃
+hxno   欿
 hxo    臾
 hxpf   舄
 hxt    舁
@@ -8610,6 +8624,7 @@ jchq   窂
 jchqr  窖
 jchs   窄
 jchsk  竅
+jchsx  窞
 jchuu  竁
 jchvo  窊
 jchwe  窗
@@ -8665,6 +8680,7 @@ jcqhk  窫
 jcqou  窺
 jcqou  窥
 jcrob  窝
+jcshx  窞
 jcsjl  窷
 jcskr  窘
 jcsmm  翸
@@ -8813,6 +8829,7 @@ jjhpm  軧
 jjhqo  軼
 jjhqu  軞
 jjhsn  軶
+jjhsx  輡
 jjhvi  軧
 jjhvo  軱
 jjhvp  軝
@@ -8914,6 +8931,7 @@ jjshh  軔
 jjshi  軔
 jjshr  軺
 jjshu  輓
+jjshx  輡
 jjsit  轞
 jjsje  輙
 jjsju  輒
@@ -9256,6 +9274,7 @@ kcipm  弑
 kcln   剎
 kcln   刹
 kcpi   瘹
+kcpm   瘹
 kcru   痥
 kcwj   瘅
 kd     东
@@ -10215,6 +10234,7 @@ lihsb  蝙
 lihsc  蝜
 lihsk  蜧
 lihsu  蚅
+lihsx  蜭
 lihuk  螑
 lihup  螅
 lihvi  蚳
@@ -10423,6 +10443,7 @@ lisei  蠾
 lisem  蠮
 lish   虭
 lishr  蛁
+lishx  蜭
 lisjr  蜛
 lismg  蠗
 lismh  蟉
@@ -11786,6 +11807,7 @@ mmp    忢
 mmpym  鹉
 mmqmb  靕
 mmr    吾
+mmrhu  况
 mms    厉
 mmti   厨
 mmu    元
@@ -13173,6 +13195,7 @@ nlhpm  阺
 nlhrf  隖
 nlhs   阼
 nlhsn  阸
+nlhsx  陷
 nlht   阩
 nlhta  陹
 nlhtg  陞
@@ -13976,6 +13999,7 @@ oihp   侂
 oihq   侔
 oihqi  餓
 oihs   飵
+oihsx  餡
 oihuc  饡
 oihxe  餿
 oii    俴
@@ -14066,6 +14090,7 @@ oiruc  饌
 oirvc  饌
 oisb   偏
 oisg   僱
+oishx  餡
 oisj   餌
 oism   傓
 oismm  翎
@@ -15056,6 +15081,7 @@ oyhon  餰
 oyhp   飥
 oyhqi  餓
 oyhs   仿
+oyhsx  餡
 oyhuc  饡
 oyhv   依
 oyhvf  緐
@@ -15138,6 +15164,7 @@ oyruc  饌
 oyrv   儴
 oyrv   偯
 oyrvc  饌
+oyshx  餡
 oysj   餌
 oysk   倣
 oysmr  飼
@@ -15354,6 +15381,7 @@ phs    怍
 phsb   惼
 phsk   憿
 phsk   悷
+phsx   惂
 phvi   怟
 phvp   忯
 phwp   憁
@@ -15630,6 +15658,7 @@ psh    切
 psh    忉
 pshr   怊
 pshu   悗
+pshx   惂
 psit   懢
 psje   慑
 psjj   懾
@@ -16011,6 +16040,7 @@ qhsb   揙
 qhsk   撽
 qhsk   捩
 qhsm   搧
+qhsx   掐
 qht    抍
 qhtn   擶
 qhu    兂
@@ -16513,6 +16543,7 @@ qshi   扨
 qshr   招
 qshu   捤
 qshu   挽
+qshx   掐
 qsike  韨
 qsj    挕
 qsjc   摂
@@ -16911,6 +16942,7 @@ rhs    咋
 rhsk   唳
 rhsk   噭
 rhsn   呝
+rhsx   啗
 rht    呏
 rhu    兄
 rhuc   囋
@@ -17554,6 +17586,7 @@ rsh    叧
 rshaf  鶚
 rshaf  鴞
 rshb   嘱
+rshx   啗
 rsit   嚂
 rsj    咠
 rsj    咡
@@ -18473,6 +18506,9 @@ swc    鑒
 swl    匣
 swq    擥
 swymr  譼
+sxff   燄
+sxhaf  鵮
+sxno   欿
 syhn   匟
 syjj   屛
 sytj   屖
@@ -18940,6 +18976,7 @@ thsc   萯
 thse   蒑
 thsk   薂
 thsu   蔰
+thsx   萏
 thuc   蘈
 thui   莵
 thup   蒠
@@ -19624,6 +19661,7 @@ tqoml  羚
 tqomn  羭
 tqomo  羷
 tqomv  羭
+tqp    恙
 tqpu   菢
 tqqo   荴
 tqs    苇
@@ -19683,6 +19721,7 @@ tshr   苕
 tshu   荱
 tshu   莬
 tshu   苉
+tshx   萏
 tsic   蕻
 tsip   荵
 tsip   藯
@@ -22563,6 +22602,7 @@ yrhs   詐
 yrhsb  諞
 yrhsk  譤
 yrhsm  謆
+yrhsx  諂
 yrhuc  讚
 yrhv   哀
 yrhvi  詆
@@ -22772,6 +22812,7 @@ yrshi  訒
 yrshm  譅
 yrshp  認
 yrshr  詔
+yrshx  諂
 yrsim  譅
 yrsip  認
 yrsj   誀
@@ -23784,6 +23825,7 @@ xhwha  鶹
 xhwk   筃
 xhwmv  粤
 xhwp   恖
+xhxno  欿
 xhyhn  舧
 xhyhs  籩
 xhypn  箎
