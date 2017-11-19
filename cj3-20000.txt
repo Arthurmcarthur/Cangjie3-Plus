@@ -10603,6 +10603,7 @@ lllb   帅
 lllc   順
 lllo   顺
 llmb   师
+llme   版
 llmjx  牐
 llml   片
 llmn   片
@@ -10611,6 +10612,7 @@ lln    弗
 llnsh  畅
 lloa   临
 llomn  牏
+llomv  牏
 llp    患
 llpb   褙
 llpi   畃
@@ -11150,6 +11152,8 @@ mfgni  禱
 mfgr   祮
 mfgrr  禧
 mfhaf  鴀
+mfhg   祍
+mfhgr  祰
 mfhhh  彯
 mfhhj  禆
 mfhjd  祩
@@ -11246,6 +11250,7 @@ mftwt  禮
 mftwv  禯
 mfu    礼
 mfvii  禨
+mfvik  禨
 mfvnd  孬
 mfvne  祿
 mfvno  禒
@@ -12079,6 +12084,7 @@ mrhjm  硾
 mrhju  碷
 mrhkb  礄
 mrhkl  硚
+mrhkp  舔
 mrhl   厛
 mrhlc  礩
 mrhml  斫
@@ -12377,6 +12383,7 @@ msks   劢
 msl    卭
 mslmi  虿
 msnl   鄠
+msog   雇
 msok   攷
 msqo   巭
 msru   扈
@@ -24144,6 +24151,7 @@ xnsbt  盁
 xnsd   朶
 xnsf   熃
 xnsll  弫
+xnue   弢
 xnumb  顄
 xnv    ⺄
 xnvlm  蜑
