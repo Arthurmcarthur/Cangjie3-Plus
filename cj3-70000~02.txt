@@ -2179,6 +2179,7 @@ cybp   鑨
 cybs   鎊
 cycb   鏑
 cyck   鉸
+cyco   鐩
 cydk   鐓
 cye    鈙
 cyg    鉒
@@ -3285,6 +3286,7 @@ dybp   櫳
 dybs   榜
 dycb   樀
 dyck   校
+dyco   檖
 dydk   橔
 dydl   槨
 dydu   櫬
@@ -4477,6 +4479,7 @@ eycd   滦
 eyck   洨
 eyck   湙
 eycn   湾
+eyco   澻
 eycu   渷
 eycv   滾
 eycv   滚
@@ -4669,6 +4672,7 @@ fci    炂
 fcip   焧
 fcmc   熑
 fcmi   燇
+fcmo   煫
 fcnh   焍
 fcor   焀
 fcq    举
@@ -5251,6 +5255,7 @@ fyav   煺
 fybp   爖
 fycb   熵
 fyck   烄
+fyco   燧
 fydk   燉
 fyed   燦
 fyev   爘
@@ -6398,6 +6403,7 @@ hdwjr  稒
 hdwk   秵
 hdwlj  釋
 hdwtc  穓
+hdyco  穟
 hdycv  穣
 hdye   斅
 hdyhn  秔
@@ -7780,6 +7786,7 @@ icp    怷
 icp    懬
 icq    摩
 icrhr  麿
+icrr   麿
 icsje  黀
 icvi   麼
 icvif  縻
@@ -7832,6 +7839,7 @@ ifbm   祖
 ifbme  禐
 ifbqr  禂
 ifbuu  視
+ifcmw  禉
 ifcnh  祶
 ifcru  祱
 ifcwj  禅
@@ -7869,6 +7877,7 @@ ifilr  禟
 ifit   祴
 ifjbc  禛
 ifjbm  禃
+ifjbv  禃
 ifjd   祙
 ifjka  禇
 ifjr   祜
@@ -7957,6 +7966,7 @@ ifwtc  禩
 ifybb  禘
 ifybc  禎
 ifybo  祯
+ifyco  禭
 ifyhs  祊
 ifylm  祉
 ifyoj  祽
@@ -10859,6 +10869,7 @@ ltwv   襛
 lu     儿
 lu     乚
 lue    沊
+luf    凞
 luhaf  鴆
 lumb   褍
 lumvn  瓭
@@ -10902,6 +10913,7 @@ ly     补
 lyav   褪
 lybb   褅
 lybp   襱
+lyco   襚
 lyd    棐
 lydu   襯
 lyhqu  靟
@@ -11128,6 +11140,7 @@ mfamo  禔
 mfaoc  禵
 mfasm  禢
 mfbbr  禍
+mfbgr  禂
 mfbjj  禈
 mfbk   爾
 mfbk   厰
@@ -11176,6 +11189,7 @@ mfilr  禟
 mfit   祴
 mfj    平
 mfjbc  禛
+mfjbm  禃
 mfjbv  禃
 mfjd   祙
 mfjka  禇
@@ -11225,6 +11239,7 @@ mfp    愿
 mfpbc  禛
 mfpd   祂
 mfph   祕
+mfpi   礿
 mfpm   礿
 mfpou  祹
 mfqhk  禊
@@ -11241,6 +11256,7 @@ mfsmm  祤
 mfsmr  祠
 mfsqf  禡
 mftcg  禥
+mftcw  禉
 mftgf  禚
 mftmc  祺
 mftmd  禖
@@ -11264,6 +11280,7 @@ mfwp   禗
 mfwtc  禩
 mfybb  禘
 mfybc  禎
+mfyco  禭
 mfyhs  祊
 mfylm  祉
 mfyoj  祽
@@ -11616,6 +11633,7 @@ mgybk  瓛
 mgybp  瓏
 mgybu  璿
 mgyck  珓
+mgyco  璲
 mgyed  璨
 mgyfe  琡
 mgyiu  琉
@@ -12349,6 +12367,7 @@ mrybb  碲
 mrybc  碵
 mrybp  礲
 mrybs  磅
+mryco  礈
 mrycv  磙
 mrydk  礅
 mryg   砫
@@ -13164,6 +13183,7 @@ nlbmp  隱
 nlbof  際
 nlbsp  隠
 nlbt   盄
+nlcmo  隊
 nlcmt  隘
 nldhe  陂
 nldw   陳
@@ -13304,6 +13324,7 @@ nlwlb  隅
 nlwmv  隈
 nlx    彇
 nlybp  隴
+nlyco  隧
 nlyhm  隡
 nlyhn  阬
 nlyhs  防
@@ -19680,6 +19701,7 @@ tqu    羌
 tqukf  羰
 tqumf  羰
 tqwj   蘀
+tqyr   譱
 tqyrr  譱
 tqyt   菈
 tqywm  羶
@@ -20929,6 +20951,7 @@ vfybb  締
 vfybc  緽
 vfybs  縍
 vfyck  絞
+vfyco  繸
 vfyg   紸
 vfygq  繨
 vfyhj  縫
@@ -21587,6 +21610,7 @@ vybc   媜
 vybs   嫎
 vycb   嫡
 vyck   姣
+vyco   嬘
 vycv   嬢
 vyfe   婌
 vyg    妵
@@ -22334,6 +22358,7 @@ ymvm   逕
 ymwu   遷
 ymy    卡
 ymymm  歮
+ynau   逸
 ynbq   邂
 ynbuc  贙
 ynbuu  覤
@@ -22906,6 +22931,7 @@ yrybs  謗
 yrycb  謫
 yrycb  謪
 yryck  詨
+yryco  譢
 yrycv  譲
 yrydk  譈
 yrye   遐
@@ -22957,6 +22983,7 @@ ysg    堃
 ysh    辺
 yshaf  鴋
 yshdw  旙
+yshi   逸
 yshr   迢
 ysif   旀
 yskmr  旑
