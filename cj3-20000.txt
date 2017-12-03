@@ -2887,6 +2887,7 @@ dnhb   橘
 dnhd   楙
 dnhd   楺
 dnhe   极
+dnhh   榒
 dnib   桶
 dnih   柕
 dnil   桞
@@ -4042,6 +4043,7 @@ eng    沑
 enhb   潏
 enhd   渘
 enhe   汲
+enhh   溺
 enhx   淊
 eni    汐
 eni    泓
@@ -4750,6 +4752,7 @@ fdmwl  糆
 fdnd   籽
 fdng   粈
 fdnhd  糅
+fdnhh  糑
 fdnii  糨
 fdniq  粦
 fdnj   籸
@@ -6905,6 +6908,7 @@ hnhaf  鷉
 hnhaf  鵚
 hnhag  凰
 hnhe   笈
+hnhh   篛
 hnhhc  凲
 hnhhh  颩
 hnhhw  飀
@@ -12935,6 +12939,7 @@ nfnff  鱻
 nfnhb  鱊
 nfnhd  鰇
 nfnhe  魥
+nfnhh  鰯
 nfnhi  鯴
 nfnib  鯒
 nfnin  魣
@@ -13087,6 +13092,8 @@ nhfb   矟
 nhhes  務
 nhli   虱
 nhlii  蟊
+nhnhf  鶸
+nhnhh  弱
 nhnvm  骘
 nhoii  矝
 nhoin  矜
@@ -15569,6 +15576,7 @@ pncr   憺
 png    忸
 pnhb   憰
 pnhe   忣
+pnhh   愵
 pnhx   惂
 pni    匇
 pnib   悀
@@ -16408,6 +16416,7 @@ qnem   拯
 qng    扭
 qnhd   揉
 qnhe   扱
+qnhh   搦
 qnhs   扔
 qnhx   掐
 qni    专
@@ -19462,6 +19471,7 @@ tnfn   薊
 tnfq   蘚
 tnhd   葇
 tnhe   芨
+tnhh   蒻
 tnhs   艿
 tnhs   蓩
 tnhx   萏
@@ -20288,6 +20298,7 @@ unbq   崅
 uncr   嶦
 unhe   岌
 unhe   岋
+unhh   嵶
 unhs   屷
 uni    岁
 unii   嵹
@@ -21396,6 +21407,7 @@ vnf    妳
 vnf    煭
 vng    妞
 vnhd   媃
+vnhh   嫋
 vnhs   奶
 vnin   妤
 vnin   姼
