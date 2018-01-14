@@ -2080,6 +2080,7 @@ ctlb   鏋
 ctlc   鐄
 ctlk   鍈
 ctm    鉗
+ctma   鐠
 ctmc   錤
 ctmc   鐄
 ctmj   鏵
@@ -4337,6 +4338,7 @@ etlm   漌
 etlo   漢
 etlx   瀟
 etm    泔
+etma   潽
 etmb   满
 etmbc  頮
 etmbo  颒
@@ -17439,6 +17441,7 @@ rnkv   唌
 rnl    吲
 rnlm   唨
 rnlr   啊
+rnmp   喼
 rno    吹
 rnoiv  饕
 rnot   噔
@@ -22875,6 +22878,7 @@ yrtlf  讌
 yrtlj  諽
 yrtlm  謹
 yrtm   詌
+yrtma  譜
 yrtmc  諆
 yrtmd  謀
 yrtmj  譁
@@ -25111,6 +25115,7 @@ cjkd   﨧
 dfcq   﨔
 dtoi   﨓
 gccr   﨏
+gcor   﨏
 goyj   﨣
 ivnl   郎
 lihqm  﨡
@@ -25122,6 +25127,7 @@ uytr   﨑
 yge    﨎
 ynhe   﨤
 bc     ⺳
+bim    ⺼
 ffb    𤇾
 fi     ⺗
 hg     ⺧
@@ -26453,6 +26459,7 @@ cjig   䥫
 cjni   䥉
 cjoe   䥑
 cjon   䥑
+cjsi   䥉
 ckbm   㸖
 ckbmr  㸗
 ckjka  㸙
