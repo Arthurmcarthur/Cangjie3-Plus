@@ -2575,7 +2575,7 @@ dhyg   樦
 dhyl   楖
 dhyn   榹
 dhyu   榹
-dhyu   概
+dhyu   槪
 di     寸
 diav   桹
 dibi   榑
@@ -3659,9 +3659,11 @@ ehio   泛
 ehj    汘
 ehjd   洙
 ehjg   湩
+ehjj   汧
 ehjm   涶
 ehjr   活
 ehk    沃
+ehkj   汧
 ehkp   添
 ehlb   渪
 ehll   洲
@@ -3730,7 +3732,7 @@ ehxf   澙
 ehxm   湼
 ehxu   淣
 ehyhv  裟
-ehyu   溉
+ehyu   漑
 ei     戏
 ei     叉
 eiav   浪
@@ -6592,6 +6594,7 @@ hhkb   簥
 hhkmr  躸
 hhlbu  躭
 hhlf   籞
+hhli   蠞
 hhlo   笊
 hhlwv  軁
 hhmbc  須
@@ -7474,6 +7477,7 @@ hunl   郋
 huno   歋
 hunwa  氌
 hunwa  氇
+hunwf  鱀
 huomn  毺
 huomv  毺
 huooo  臮
@@ -10232,6 +10236,7 @@ lihmy  蚸
 lihn   虮
 lihnd  蟍
 lihp   虴
+lihpl  蝍
 lihpm  蚳
 lihqi  蛾
 lihqo  蛈
@@ -10253,6 +10258,7 @@ lihwp  蟌
 lihwp  螕
 lihxe  螋
 lihxu  蜺
+lihyl  蝍
 lihyn  螔
 lihyu  螔
 liiav  蜋
@@ -12391,6 +12397,7 @@ mrywi  磠
 mrywk  硵
 ms     万
 ms     戸
+msb    肩
 msbt   扁
 mshml  所
 msho   豕
@@ -13692,6 +13699,7 @@ nw     乪
 nwf    魚
 nwfa   魯
 nwfnf  鱻
+nwks   勇
 nwlmi  螴
 nwlu   亀
 nwlv   彋
@@ -16981,7 +16989,7 @@ rhwg   囖
 rhxe   嗖
 rhxu   唲
 rhya   喒
-rhyl   唧
+rhyl   喞
 rhyn   嗁
 rhyu   嘅
 rhyu   嗁
@@ -21026,17 +21034,19 @@ vhhc   嫌
 vhhj   婢
 vhhpl  鄕
 vhhw   媹
-vhhyl  鄉
+vhhyl  鄕
 vhi    媿
 vhiil  鄉
 vhio   姂
 vhj    奷
 vhjd   姝
 vhjg   媑
+vhjj   姸
 vhjm   娷
 vhjr   姡
 vhk    妖
 vhkb   嬌
+vhkj   姸
 vhkl   娇
 vhkp   婖
 vhlmi  蚃
@@ -23477,7 +23487,7 @@ xdhpa  橁
 xdhs   枦
 xdhsk  棙
 xdhxu  櫷
-xdhyu  概
+xdhyu  槪
 xdine  櫠
 xdjbm  椬
 xdjbv  欜
@@ -29255,6 +29265,7 @@ lebuc  䝨
 lfb    䘯
 lfbf   䘷
 lfpu   䏋
+lgf    㶳
 lhbuu  䙻
 lhgf   䙧
 lhiom  䪢
