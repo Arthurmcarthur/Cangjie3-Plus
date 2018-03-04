@@ -3663,7 +3663,6 @@ ehjj   汧
 ehjm   涶
 ehjr   活
 ehk    沃
-ehkj   汧
 ehkp   添
 ehlb   渪
 ehll   洲
@@ -22849,6 +22848,7 @@ yrru   遻
 yrruc  譔
 yrrv   襄
 yrrvc  譔
+yrrvc  誤
 yrrvk  誤
 yrrxu  譝
 yrshh  訒
@@ -25097,6 +25097,7 @@ xyrnl  訠
 xyroi  誝
 xyrom  讑
 xyrpa  詣
+xyrrv  誤
 xyrtg  讛
 xyru   乩
 xyryc  謪
@@ -32144,8 +32145,10 @@ tkt    㢣
 tlav   䕣
 tlbo   㒼
 tlbu   䒞
+tlld   䕈
 tlll   䔥
 tlmvn  㽄
+tlnd   䕈
 tlpa   㬫
 tlpf   㷼
 tlwp   䒶
@@ -32727,6 +32730,7 @@ vkkb   㛓
 vklb   㚴
 vklu   㛪
 vklv   㛪
+vkomn  㡮
 vkoo   㛍
 vksr   㚳
 vlr    㗽
