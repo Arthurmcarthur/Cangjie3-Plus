@@ -1851,6 +1851,7 @@ cmrr   鎶
 cmrt   鋀
 cmrw   鍢
 cms    鈩
+cmso   㒸
 cmsu   鈪
 cmt    鈃
 cmtn   鉶
@@ -8290,6 +8291,7 @@ inli   廕
 inlo   衤
 inno   辶
 ino    之
+ino    辶
 inoe   廢
 inol   衤
 inop   廃
@@ -9995,6 +9997,7 @@ kubbb  尳
 kuhaf  鵪
 kuhhc  尲
 kuhjg  尰
+kukvu  兓
 kulit  尴
 kulmc  尵
 kuln   剦
@@ -18266,7 +18269,6 @@ shc    刅
 shcnh  鬀
 shcwa  鬙
 shd    髤
-shdbn  鬎
 shdci  鬆
 shdhe  髲
 shdln  鬎
@@ -18367,6 +18369,7 @@ sibt   監
 sibuu  覧
 sic    鍳
 sif    熨
+sihaf  鵵
 sihhh  髟
 sihk   镺
 sihml  斸
@@ -20091,6 +20094,7 @@ twli   蔑
 twli   薎
 twli   薥
 twlii  蠤
+twlm   蔑
 twln   夢
 twln   萝
 twln   甍
@@ -24117,6 +24121,7 @@ xije   庋
 xik    义
 xikp   慦
 xim    亠
+xino   辶
 xiod   楽
 xiogr  噟
 xip    庀
