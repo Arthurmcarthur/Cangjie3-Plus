@@ -2648,6 +2648,7 @@ dit	械
 ditc	櫎
 ditf	樜
 diva	槠
+divb	樃
 divl	榔
 dixe	櫦
 dixp	樚
@@ -3681,6 +3682,7 @@ ehf	烫
 ehfd	泘
 ehgr	浩
 ehgu	洗
+ehhc	溓
 ehhj	渒
 ehhl	泖
 ehhu	滗
@@ -3776,6 +3778,7 @@ eid	沭
 eidy	灖
 eifd	粱
 eifi	灋
+eihc	濂
 eihf	滅
 eihq	洠
 eihr	減
@@ -4977,7 +4980,6 @@ fhs	炸
 fhs	炉
 fhsa	焔
 fhsb	煸
-fhsf	爋
 fhsk	燩
 fhsm	煽
 fhsu	熩
@@ -4990,6 +4992,7 @@ fiav	烺
 fibi	煿
 fice	焌
 fid	炢
+fihc	燫
 fihr	煘
 fijb	烳
 fijc	炢
@@ -5920,6 +5923,7 @@ gssu	垇
 gstt	塀
 gsu	圮
 gsuu	堀
+gsyj	塀
 gsyq	墀
 gtak	塻
 gtc	垬
@@ -17979,6 +17983,7 @@ semgi	瑿
 semoo	毉
 semr	硻
 semrt	豎
+semvn	瓯
 send	孯
 seobo	臋
 seog	匯
@@ -20713,6 +20718,7 @@ vfdl	綀
 vfdm	絊
 vfdmq	緯
 vfdq	嫾
+vfdw	練
 vfdwf	練
 vfe	灓
 vfeed	縔
