@@ -3652,8 +3652,8 @@ ehar	澔
 ehbk	澳
 ehbn	淛
 ehbs	澚
-ehbt	洫
 ehbt	盪
+ehbt	洫
 ehbu	洎
 ehbu	灚
 ehbv	浓
@@ -23714,7 +23714,7 @@ xefff	濙
 xeg	坔
 xegde	瀔
 xegg	塣
-xehbt	盪
+xehbt	洫
 xehbu	灚
 xehe	汷
 xehem	泈
@@ -31761,7 +31761,6 @@ rypk	㗔
 rypm	㖸
 ryrv	㗒
 rysec	䫗
-ryseo	䫗
 ryt	㕸
 rytj	㖕
 rytr	㖣
