@@ -2160,6 +2160,7 @@ cwa	曾
 cwa	曽
 cwcl	鎅
 cwd	錁
+cwfa	曾
 cwg	鋰
 cwik	猷
 cwj	单
