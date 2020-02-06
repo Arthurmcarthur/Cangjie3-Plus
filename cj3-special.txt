@@ -7639,6 +7639,7 @@ hwtj	篳
 hx	臼
 hxbc	興
 hxbt	盥
+hxe	叟
 hxff	燄
 hxh	身
 hxhaf	鵮
