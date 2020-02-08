@@ -8714,6 +8714,7 @@ jcirm	窢
 jcjbc	窴
 jcjkd	窙
 jcjnk	窦
+jck	突
 jckcf	竂
 jckn	究
 jcks	穷
