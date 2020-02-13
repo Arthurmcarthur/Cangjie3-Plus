@@ -17218,7 +17218,6 @@ rlmi	虽
 rlmo	咷
 rlmt	嚍
 rlmy	啡
-rlu	叽
 rlwl	呻
 rlwu	黾
 rlwv	嘍
@@ -30503,6 +30502,7 @@ nhytg	䂌
 nic	䥒
 nif	㢱
 nij	㚈
+nimnb	㣇
 njbc	㣀
 nkbr	㢠
 nkf	㷺
