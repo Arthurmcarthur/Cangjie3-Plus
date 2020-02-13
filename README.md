@@ -41,7 +41,7 @@
 收錄了中日韓統一表意文字基本區至擴展A區的碼表。另還包括了一些符號與漢字兼容區中不存在於基本區的十二個漢字，是cj3.txt的子集。
 
 - **[cj3-special.txt](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/cj3-30000.txt)**<br />
-收錄了中日韓統一表意文字基本區至擴展A區、HKSCS，以及通用規範漢字表中的漢字，在字集方面，是cj3.txt的子集。另外為了照顧用戶習慣，加入了「捏、撐」被官方強制Big5後的編碼（關於強制Big5化的問題可參考change_summary.md中的說明）。本碼表主要是為了方便輸入法內置而作，在更新上可能落後於cj3.txt與cj3-special.txt，建議個人使用者選擇前兩張碼表。
+收錄了中日韓統一表意文字基本區至擴展A區、HKSCS，以及通用規範漢字表中的漢字，在字集方面，是cj3.txt的子集。另外為了照顧用戶習慣，加入了「捏、撐」被官方強制Big5後的編碼（關於強制Big5化的問題可參考change_summary.md中的說明）。本碼表主要是為了方便輸入法內置而作，在更新上可能落後於cj3.txt與cj3-30000.txt，建議個人使用者選擇前兩張碼表。
 
 - **[change_summary.md](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/change_summary.md)**<br />
 碼表修改總體說明。
