@@ -46,7 +46,7 @@
 - **[change_summary.md](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/change_summary.md)**<br />
 碼表修改總體說明。
 
-- **[碼表修改記錄.xlsx](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/編碼修改記錄.xlsx)**<br />
+- **[編碼修改記錄.xlsx](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/編碼修改記錄.xlsx)**<br />
 詳細記錄了碼表的修改。
 
 ## FAQ
