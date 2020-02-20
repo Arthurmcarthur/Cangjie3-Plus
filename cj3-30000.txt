@@ -31859,6 +31859,7 @@ rypk   㗔
 rypm   㖸
 ryrv   㗒
 rysec  䫗
+ryseo  㰺
 ryt    㕸
 rytj   㖕
 rytr   㖣

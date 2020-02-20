@@ -31859,6 +31859,7 @@ rypk   㗔
 rypm   㖸
 ryrv   㗒
 rysec  䫗
+ryseo  㰺
 ryt    㕸
 rytj   㖕
 rytr   㖣
@@ -36896,10 +36897,11 @@ buvml  𥇴
 buvms  𪔂
 buvr   𥆃
 buvu   𥄀
+buvv   𥄉
 buvvd  𥊌
 buvvu  𤕆
 buvvu  𦉔
-buvv   𥄉
+buvvv  𥄉
 buwbc  𥍎
 buwd   𥇬
 buwf   𦢜
@@ -39452,6 +39454,7 @@ dtio   𣔰
 dtip   𣞓
 dtisb  𣘾
 dtit   𣙷
+dtit   𣠅
 dtja   𣛰
 dtje   𣜒
 dtjf   𣛂
@@ -45429,13 +45432,16 @@ hfjka  𪃲
 hfjmk  𪄺
 hfjmm  𪃗
 hfjmv  𪄓
+hfjn   𠂠
 hfjnu  𪂭
 hfjpt  𪆮
 hfjr   𩿵
+hfjs   𠂠
 hfk    𥭍
 hfk    𠂟
 hfks   𠣆
 hfks   𩾜
+hfks   𠂠
 hfksr  𪀁
 hflav  𪅛
 hflll  𩾧
@@ -47152,6 +47158,7 @@ hohun  𢔬
 hohvf  𤫺
 hohvl  𢓋
 hohvo  𤬑
+hohvo  𤫴
 hohx   𦥝
 hohxf  𢖣
 hohxg  𡓓
@@ -51804,6 +51811,7 @@ jibu   𥊍
 jibuu  𧡃
 jiche  𢧇
 jidif  𦄯
+jidip  𢞯
 jihi   𧔂
 jihlo  𢦼
 jihq   𡧷
