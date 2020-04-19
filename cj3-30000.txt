@@ -7750,6 +7750,7 @@ hymo   篴
 hyms   舮
 hymu   兏
 hymv   簔
+hymvu  旣
 hyndt  艋
 hynkg  艇
 hynl   郍
@@ -7937,6 +7938,7 @@ ifcru  祱
 ifcwj  禅
 ifdmq  禕
 iffkc  禷
+iffwj  禅
 ifg    社
 ifgce  祾
 ifgi   祛
@@ -11092,6 +11094,7 @@ mbbhv  霢
 mbbie  霡
 mbbme  霡
 mbbmo  霥
+mbbp   麗
 mbbqr  霌
 mbbuu  覼
 mbchf  靎
@@ -13854,6 +13857,7 @@ nwm    鱼
 nwma   鲁
 nwtj   彃
 nwu    龟
+nwv    龟
 nx     卍
 nxff   燄
 nxhaf  鵮
@@ -16242,8 +16246,8 @@ qhu    兂
 qhuc   攢
 qhuk   搝
 qhul   擤
-qhuo   擨
 qhuo   攒
+qhuo   擨
 qhut   擤
 qhuu   撬
 qhvi   抵
@@ -16904,8 +16908,8 @@ qyij   摔
 qyj    抖
 qyjj   摙
 qyjj   拼
-qyk    抆
 qyk    挞
+qyk    抆
 qykl   挤
 qykm   摌
 qylh   捗
@@ -24614,7 +24618,7 @@ xqhp   恝
 xqhs   护
 xqhsb  揙
 xqhsk  捩
-xqhuo  攒
+xqhuo  擨
 xqhyu  摡
 xqi    扩
 xqif   焘
@@ -24668,7 +24672,7 @@ xqwd   捰
 xqwli  擉
 xqybb  撾
 xqyjj  拼
-xqyk   挞
+xqyk   抆
 xqymy  挊
 xqypp  摅
 xqyps  掳
@@ -29045,7 +29049,7 @@ jnbnd  䴸
 jndh   䴭
 jndj   䴲
 jnfbc  䵀
-jnhem  䴶
+jnhej  䴶
 jnhhj  䴽
 jnhqu  㲰
 jni    䴰
@@ -32792,7 +32796,7 @@ vbkf   㜣
 vbmm   㚩
 vbuc   㛝
 vbug   㜹
-vfvhb  㣈
+vbvhb  㣈
 vbvk   㜎
 vbvmb  㣈
 vchml  㫁

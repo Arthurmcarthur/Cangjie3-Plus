@@ -6,6 +6,12 @@
 
 由「倉頡平台2012」的「五倉世紀」碼表修改而來。
 
+## 下載
+
+點擊[此處](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/1.4/RimeData_20200419_Cangjie3.WithExtG.7z)下載適用於Rime的方案文件。
+
+點擊[此處](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/1.4/MSCJData_20200419_Cangjie3.WithExtG.7z)下載適用於替換微軟倉頡碼表的文件。（使用說明見[此處](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
+
 ## 緣由
 
 世面上如今已經有許多倉頡三代的碼表，為何還要費心力開展「倉頡三代補完計畫」？這張碼表有什麼獨特之處？

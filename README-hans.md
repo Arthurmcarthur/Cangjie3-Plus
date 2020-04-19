@@ -6,6 +6,12 @@
 
 由「仓颉平台2012」的「五仓世纪」码表修改而来。
 
+## 下载
+
+点击[此处](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/1.4/RimeData_20200419_Cangjie3.WithExtG.7z)下载适用于Rime的方案文件。
+
+点击[此处](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/1.4/MSCJData_20200419_Cangjie3.WithExtG.7z)下载适用于替换微软仓颉码表的文件。（使用说明见[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
+
 ## 缘由
 
 世面上如今已经有许多仓颉三代的码表，为何还要费心力开展「仓颉三代补完计划」？这张码表有什么独特之处？

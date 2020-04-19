@@ -84,7 +84,6 @@ hfd    ⾤   康熙部首
 hhh    ⼺   康熙部首
 hhho   ⾡   康熙部首
 hi     ⿁   康熙部首
-hjr    ⾆   康熙部首
 hlo    ⽖   康熙部首
 hml    ⽄   康熙部首
 hn     ⼍   康熙部首
@@ -156,6 +155,7 @@ mgi    ⽟   康熙部首
 mh     ⼚   康熙部首
 mig    ⾄   康熙部首
 mj     ⼲   康熙部首
+mjr    ⾆   康熙部首
 mku    ⽆   康熙部首
 mlby   ⾬   康熙部首
 mlm    ⼯   康熙部首
@@ -375,8 +375,8 @@ vl     ⺃   部首補充
 vnm    ⺔   部首補充
 vvm    ⺰   部首補充
 vvmbu  ⻡   部首補充
+wc     ⺲   部首補充
 wll    ⺫   部首補充
-wll    ⺲   部首補充
 wyi    ⺟   部首補充
 ykll   ⻬   部首補充
 yklml  ⻫   部首補充
@@ -1419,3 +1419,10 @@ ytpbc  𥪧   兼容區補充
 ytsyj  竮   兼容區補充
 yuyjj  𪘀   兼容區補充
 yvvv   巡   兼容區補充
+oihdr  ㋿   中日韓帶圈字符及月份
+olhdr  ㋿   中日韓帶圈字符及月份
+aber   ㍾   中日韓兼容字符
+asrr   ㍼   中日韓兼容字符
+dmoig  ㍿   中日韓兼容字符
+kmym   ㍽   中日韓兼容字符
+mjihs  ㍻   中日韓兼容字符
