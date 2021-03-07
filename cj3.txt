@@ -34614,7 +34614,7 @@ awli   𣉳
 awlu   𣋍
 awly   𣋖
 awma   𣰱
-awmf   𣎈
+bwmf   𣎈
 awmv   𣉍
 ay     𣅂
 ay     𣅃
@@ -42281,7 +42281,7 @@ fomb   𤓀
 fomb   𤍼
 fombc  𩕈
 fomm   𤈷
-fomo   𡑯
+gomo   𡑯
 fonui  𧼧
 fooa   𤎳
 foog   𤉛
@@ -45147,7 +45147,7 @@ hduu   𦤙
 hduui  𥣼
 hduvi  𥠃
 hdveu  𨤖
-hdvis  𪀂
+hfvis  𪀂
 hdvle  𨤑
 hdvot  𧰌
 hdvou  𨤖
@@ -64934,7 +64934,7 @@ pddn   𢟼
 pdhaf  𪀶
 pdhaf  𪃸
 pdhi   𩳶
-pdhj   𠉟
+odhj   𠉟
 pdhqu  𣮕
 pdj    𢗿
 pdje   𢘦
@@ -84322,7 +84322,7 @@ msomo  𪜇
 mtco   𪠖
 mthhq  𪫊
 mthhu  𫌟
-mtidd  𪿳
+mridd  𪿳
 mtitf  𪪩
 mtjmn  𫎄
 mtlc   𪠓
@@ -84487,7 +84487,7 @@ nkpym  𫛼
 nktcw  𪪰
 nkw    𪪮
 nkwyl  𪜖
-nkyk   𫔻
+nlyk   𫔻
 nlamn  𫔿
 nlapv  𫕈
 nlatc  𫠃
@@ -87312,7 +87312,7 @@ emhf   𬈛
 emhqu  𬇇
 emil   𬈖
 eml    𬇧
-emlm   𬂲
+dmlm   𬂲
 emob   𬇞
 ems    𬇕
 emsm   𬇸
@@ -93675,7 +93675,7 @@ dipw   𭭀
 dive   𭩰
 diyrb  𮪺
 djjd   𭬕
-djkd   𭜸
+pjkd   𭜸
 djnp   𭪮
 djqi   𮌁
 djtd   𭪷
@@ -94125,13 +94125,13 @@ ewrhp  𭊼
 ews    𭰊
 ewwk   𭳸
 eybk   𭲋
-eycb   𭫶
+dycb   𭫶
 eyce   𭱝
 eycj   𭰺
 eygg   𭲗
 eyhp   𭳩
 eyhs   𭱕
-eyid   𭪱
+dyid   𭪱
 eykf   𭲍
 eykl   𭲍
 eykm   𭲴
@@ -94868,8 +94868,8 @@ hhfsm  𮜴
 hhhb   𭛖
 hhjwj  𮝉
 hhkm   𮜰
-hhkni  𮜿
-hhknk  𮜿
+jjkni  𮜿
+jjknk  𮜿
 hhks   𭄠
 hhks   𭄨
 hhlwp  𮜸
@@ -96310,7 +96310,7 @@ lcq    𭢅
 lcymr  𮘤
 ldam   𮖕
 ldbm   𮖕
-ldbn   𮔗
+lidbn  𮔗
 le     𮕧
 led    𭬢
 lew    𭻭
@@ -97454,6 +97454,7 @@ nkhqm  𭚕
 nkhv   𭚓
 nkji   𭐳
 nkks   𭄶
+nfleg  𮫹
 nkleg  𮫹
 nkmhq  𭷳
 nkmui  𭚒
@@ -99103,7 +99104,7 @@ sfeee  𮩾
 sff    𭵢
 sfff   𮪋
 sfhds  𮪆
-sfhn   𮬥
+hfhn   𮬥
 sfije  𮪅
 sfjcv  𮪠
 sfjnd  𮪃
@@ -99120,7 +99121,7 @@ sfmlu  𮩷
 sfmmi  𮪝
 sfmob  𮩺
 sfmtp  𮪜
-sfmu   𮬦
+hfmu   𮬦
 sfmvu  𮩷
 sfmwd  𮪕
 sfnau  𮪀
@@ -99587,7 +99588,7 @@ tkha   𮐫
 tkhb   𮐑
 tkhg   𮐴
 tkhi   𮏺
-tkhk   𭗢
+ukhk   𭗢
 tkhk   𮏶
 tkhr   𮏛
 tkhu   𮏜
