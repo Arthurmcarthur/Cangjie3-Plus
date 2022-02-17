@@ -76,3 +76,4 @@ A:我們認為，各代倉頡不是截然對立的，其思想是互通的。歷
 
 ## 友情連接
 - [「倉頡之友·馬來西亞」論壇](http://www.chinesecj.com/forum/forum.php)
+- [「維基教科書·倉頡輸入法」教程](https://zh.m.wikibooks.org/zh-hant/倉頡輸入法)

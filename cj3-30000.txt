@@ -5579,6 +5579,7 @@ gihr   堿
 gihs   城
 gihse  叝
 giih   墋
+giil   鿾
 gijb   埔
 gike   坺
 gikk   坺
@@ -5615,6 +5616,7 @@ gitc   壙
 gitf   墌
 gitlj  鞤
 givif  縶
+givl   鿾
 gixp   塶
 giyhv  褺
 giymr  謺
@@ -6009,6 +6011,7 @@ gwlw   夁
 gwol   堺
 gwot   塭
 gwyi   坶
+gwyi   毐
 gy     圤
 gybp   壠
 gybs   塝
@@ -7793,6 +7796,7 @@ hyshu  艉
 hysit  艦
 hysjr  艍
 hysk   簇
+hysl   卽
 hysmt  艦
 hysy   箊
 hyt    笠
@@ -7851,6 +7855,7 @@ ibn    乶
 ibnl   郙
 ibnl   鄘
 ibo    贠
+iboe   鿿
 ibpp   能
 ibrp   喸
 ibsh   廫
@@ -9220,6 +9225,7 @@ jpko   寲
 jpmig  耋
 jpmu   尧
 jppr   耈
+jpwn   寧
 jqjp   憲
 jqjr   害
 jqk    実
@@ -10324,6 +10330,7 @@ liffd  蠑
 liffs  蟧
 lifhn  蝋
 lifqu  蜷
+lifwj  蝉
 ligb   蚺
 ligg   蛙
 liggu  蟯
@@ -11627,8 +11634,8 @@ mgmnr  珂
 mgmpm  珷
 mgmso  琢
 mgmvh  玡
-mgmvn  珁
 mgmvn  甄
+mgmvn  珁
 mgmwd  瑮
 mgnbe  瓊
 mgnbk  瑍
@@ -17215,6 +17222,7 @@ rjbo   嚔
 rjbv   囔
 rjca   噾
 rjcm   啌
+rjcs   鿽
 rjd    味
 rjdk   嘋
 rje    吱
@@ -18403,7 +18411,6 @@ sihml  斸
 sihq   犚
 sihqo  镻
 sikcf  镽
-silii  蠿
 silmi  螱
 siln   劚
 silq   肆
@@ -23978,6 +23985,7 @@ xgrtr  嘉
 xgtdh  皼
 xgtwi  壿
 xgu    圸
+xgwyi  毐
 xgycb  墒
 xgyk   垯
 xgytj  垶
@@ -24328,7 +24336,7 @@ xmgi   压
 xmgih  臹
 xmgjm  璌
 xmgkl  珔
-xmgmv  甄
+xmgmv  珁
 xmgnb  瓊
 xmgnl  鄄
 xmgno  歅
@@ -28536,7 +28544,6 @@ hyfqu  䒅
 hyg    䇠
 hyhaf  䳉
 hyhhh  䑣
-hyhnd  䑮
 hyhni  䑺
 hyhoi  䒀
 hyhsb  䑷
@@ -30751,7 +30758,6 @@ nvamg  䭪
 nvlii  䗺
 nwfff  䲜
 nwkk   㢴
-nwni   㢴
 nybn   㣃
 nybu   䀤
 nye    㢭

@@ -1,0 +1,9 @@
+將源文件轉換為YAML的腳本。
+本腳本在macOS上安裝了相應依賴後可用，但不保證其他系統可用性。
+本腳本要求同目錄下有source_file文件夾。
+文件夾中需要以下幾個文件：
+cangjie3.custom.yaml
+cangjie3.dict.template.yaml
+cangjie3.schema.yaml
+cj3.txt
+cj3_supplement.txt

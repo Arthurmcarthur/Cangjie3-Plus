@@ -76,3 +76,4 @@ A:我们认为，各代仓颉不是截然对立的，其思想是互通的。历
 
 ## 友情连接
 - [「仓颉之友·马来西亚」论坛](http://www.chinesecj.com/forum/forum.php)
+- [「维基教科书·仓颉输入法」教程](https://zh.m.wikibooks.org/zh-hans/倉頡輸入法)

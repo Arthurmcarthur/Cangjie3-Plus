@@ -1,0 +1,112 @@
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+customization: 1990527275
+engine:
+  filters:
+    - simplifier
+    - uniquifier
+    - single_char_filter
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    #- reverse_lookup_translator
+    # 注釈掉反査，，，
+    - table_translator
+key_binder:
+  import_preset: default
+punctuator:
+  import_preset: symbols
+recognizer:
+  import_preset: default
+  patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
+    reverse_lookup: "`[a-z]*'?$|[a-z]*'$"
+reverse_lookup:
+  comment_format:
+    # - "xform/^([a-wy-z]+)(x*)([a-wy-z]*)$/\\U$1$2$3\\E/"
+    # - "xform/^(xxxxx)([a-z]*)$/重重重重重\\U$2\\E/"
+    # - "xform/^(xxxx)([a-z]*)$/重重重重\\U$2\\E/"
+    # - "xform/^(xxx)([a-z]*)$/重重重\\U$2\\E/"
+    # - "xform/^(xx)([a-z]*)$/重重\\U$2\\E/"
+    # - "xform/^(x)([a-z]*)$/重\\U$2\\E/"
+    - "xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜片|"
+  dictionary: luna_pinyin
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: "`"
+  prism: luna_quanpin
+  suffix: "'"
+  tips: "〔拼音〕"
+schema:
+  author:
+    - "發明人 朱邦復先生 沈紅蓮女士"
+  dependencies:
+    - luna_quanpin
+  description: |
+    倉頡三代補完計畫
+    
+  name: "倉頡三代"
+  schema_id: cangjie3
+  version: 2020
+simplifier:
+  tips: all
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " ;"
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["中文", "西文"]
+  - name: full_shape
+    states: ["半角", "全角"]
+  - name: simplification
+    states: ["漢字", "汉字"]
+  - name: extended_charset
+    states: ["常用", "增廣"]
+  - name: ascii_punct
+    states: ["。，", "．，"]
+translator:
+  comment_format:
+    # - "xform/^~([a-wy-z]+)(x*)([a-wy-z]*)$/$1$2$3/"
+    # - "xform/^~(xxxxx)([a-z]*)$/重重重重重$2/"
+    # - "xform/^~(xxxx)([a-z]*)$/重重重重$2/"
+    # - "xform/^~(xxx)([a-z]*)$/重重重$2/"
+    # - "xform/^~(xx)([a-z]*)$/重重$2/"
+    # - "xform/^~(x)([a-z]*)$/重$2/"
+    - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜片～|"
+  dictionary: cangjie3
+  disable_user_dict_for_patterns:
+    - ^[a-x]$
+    - "^z.*$"
+    - "^yyy.*$"
+  enable_charset_filter: true
+  enable_encoder: false
+  enable_sentence: false
+  enable_user_dict: false
+  encode_commit_history: false
+  max_phrase_length: 5
+  preedit_format:
+    - "xform/^([a-wy-z]+)(x*)([a-wy-z]*)$/$1$2$3\\t（\\U$1$2$3\\E）/"
+    - "xform/^(xxxxx)([a-z]*)$/$1$2\\t（重重重重重\\U$2\\E）/"
+    - "xform/^(xxxx)([a-z]*)$/$1$2\\t（重重重重\\U$2\\E）/"
+    - "xform/^(xxx)([a-z]*)$/$1$2\\t（重重重\\U$2\\E）/"
+    - "xform/^(xx)([a-z]*)$/$1$2\\t（重重\\U$2\\E）/"
+    - "xform/^(x)([a-z]*)$/$1$2\\t（重\\U$2\\E）/"
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜片|"

@@ -1,0 +1,36 @@
+# encoding: utf-8
+#
+# 倉頡三代補完計畫
+#
+#
+# 說明：
+# 倉頡三代補完計畫
+# 專案網址：https://github.com/Arthurmcarthur/Cangjie3-Plus
+# 相關項目：倉頡五代補完計畫
+# 專案網址：https://github.com/Jackchows/Cangjie5
+#
+
+---
+name: "cangjie3"
+version: "2018"
+sort: original
+use_preset_vocabulary: true
+max_phrase_length: 1
+columns:
+  - text
+  - code
+  - stem
+encoder:
+  exclude_patterns:
+    - '^x.*$'
+    - '^z.*$'
+  rules:
+    - length_equal: 2
+      formula: "AaAzBaBbBz"
+    - length_equal: 3
+      formula: "AaAzBaBzCz"
+    - length_in_range: [4, 10]
+      formula: "AaBzCaYzZz"
+  tail_anchor: "'"
+...
+
