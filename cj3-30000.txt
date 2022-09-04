@@ -12627,8 +12627,6 @@ mvdi   辱
 mvif   系
 mvku   旡
 mvlmi  蜃
-mvmbc  頋
-mvmbo  顾
 mvni   瓦
 mvnm   互
 mvok   敐
