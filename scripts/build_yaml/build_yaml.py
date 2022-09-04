@@ -36,7 +36,7 @@ class Build_File(object):
 		os.chdir(source_file_path)
 		#os.system('pwd')
 		date_now = datetime.today().strftime('%Y%m%d')
-		yaml_directory_abspath_name = '../RimeData_%s_Cangjie3_WithExtG' % date_now
+		yaml_directory_abspath_name = '../RimeData_%s_Cangjie3_WithExtH' % date_now
 		try:            #make directories
 			os.mkdir(yaml_directory_abspath_name)
 		except:
