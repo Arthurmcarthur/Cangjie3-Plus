@@ -9832,6 +9832,7 @@ kp	疕
 kpbc	瘨
 kpblb	帶
 kpblp	慸
+kpcc	癲
 kpko	癡
 kpp	疪
 kpr	痀
