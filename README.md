@@ -41,7 +41,7 @@
 ## 内容
 
 - **[cj3.txt](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/cj3.txt)**<br />
-收錄了中日韓統一表意文字基本區至擴展I區的碼表。另還包括了一些符號與漢字兼容區中不存在於基本區的十二個漢字。
+收錄了中日韓統一表意文字基本區至擴展J區的碼表。另還包括了一些符號與漢字兼容區中不存在於基本區的十二個漢字。
 
 - **[cj3-30000.txt](https://github.com/Arthurmcarthur/Cangjie3-Plus/blob/master/cj3-30000.txt)**<br />
 收錄了中日韓統一表意文字基本區至擴展A區的碼表。另還包括了一些符號與漢字兼容區中不存在於基本區的十二個漢字，是cj3.txt的子集。
