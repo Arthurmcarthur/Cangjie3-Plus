@@ -3992,6 +3992,7 @@ embi	澪
 embi	瀜
 embk	渜
 embl	洏
+embl	澪
 embu	灀
 emca	溍
 emcw	酒
@@ -6715,6 +6716,7 @@ hife	簶
 hihaf	鵝
 hihaf	鵞
 hihaf	鴟
+hihc	簾
 hihhh	鬽
 hihml	鬿
 hihq	犩
@@ -15451,6 +15453,7 @@ pfq	怑
 pfqu	惓
 pfqu	慻
 pfuk	悩
+pfwj	惮
 pgcc	懗
 pgdi	恃
 pggu	憢
