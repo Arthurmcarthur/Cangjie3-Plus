@@ -8,9 +8,9 @@
 
 ## 下载
 
-点击[此处](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/4.1/RimeData_20250918_Cangjie3_WithExtJ.7z)下载适用于Rime的方案文件。
+点击[此处](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/4.2/RimeData_20251014_Cangjie3_WithExtJ.7z)下载适用于Rime的方案文件。
 
-点击[此处](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/4.1/MSCJData_20250918_Cangjie3_WithExtJ.7z)下载适用于替换微软仓颉码表的文件。（使用说明见[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
+点击[此处](https://github.com/Arthurmcarthur/Cangjie3-Plus/releases/download/4.2/MSCJData_20251014_Cangjie3_WithExtJ.7z)下载适用于替换微软仓颉码表的文件。（使用说明见[此处](http://www.chinesecj.com/forum/forum.php?mod=viewthread&tid=194346)）
 
 ## 缘由
 
