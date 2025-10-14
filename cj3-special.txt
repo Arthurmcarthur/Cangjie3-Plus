@@ -1927,6 +1927,7 @@ comb	鑰
 comb	錀
 comc	鋲
 comg	銓
+comg	銋
 coml	鈴
 comn	鍮
 como	鐱
@@ -2748,6 +2749,7 @@ dkso	槬
 dksr	枷
 dksr	檶
 dkss	栛
+dkua	橬
 dl	束
 dla	晳
 dlav	樓
@@ -5024,6 +5026,7 @@ fjkf	爎
 fjks	烤
 fjmm	煊
 fjmu	烷
+fjnp	焥
 fjnu	焥
 fjp	炨
 fjpu	烧
@@ -6579,6 +6582,7 @@ hftmc	鶀
 hftoe	鸌
 hfv	媝
 hfvne	鵦
+hfwj	箪
 hfydk	鷻
 hg	壬
 hgafu	皩
@@ -9127,6 +9131,7 @@ jmrp	嗭
 jmrw	富
 jmsmm	翧
 jmso	家
+jmtn	寕
 jmuc	寶
 jmue	寇
 jmuv	宼
@@ -10244,6 +10249,7 @@ libbb	螖
 libbr	蝸
 libcv	蠳
 libdi	蛶
+libee	蛧
 libgr	蜩
 libhf	蟡
 libhu	览
@@ -11421,6 +11427,7 @@ mgbjj	琿
 mgbkq	珲
 mgbm	珇
 mgbme	瑗
+mgbmu	瑶
 mgbnd	琈
 mgbo	赝
 mgbou	瑤
@@ -12043,7 +12050,6 @@ mnqo	巬
 mnr	可
 mnrbc	殞
 mnrbo	殒
-mnrr	哥
 mnrrj	殫
 mnryo	跫
 mnsj	聓
@@ -12313,6 +12319,7 @@ mrmlk	硬
 mrmms	砺
 mrmn	矴
 mrmnr	砢
+mrmnr	哥
 mrmpm	碔
 mrmr	砳
 mrmrr	磊
@@ -15245,6 +15252,7 @@ oyklu	餣
 oyklv	餣
 oyks	俲
 oyks	勄
+oylb	伂
 oylm	企
 oylmc	饋
 oylmi	蝕
@@ -18639,6 +18647,7 @@ sund	屘
 sunl	邔
 suok	改
 sup	忌
+suqm	匩
 sut	异
 sutc	巽
 suu	屈
@@ -18686,7 +18695,6 @@ tak	莫
 taka	暮
 takb	幕
 takf	驀
-takf	繤
 takg	墓
 taki	蟇
 takm	蓦
@@ -19425,6 +19433,7 @@ tksqf	驚
 tksr	茄
 tkss	荔
 tkt	荚
+tkt	莽
 tkymr	警
 tl	丗
 tlav	蔞
@@ -20513,7 +20522,6 @@ utcw	崷
 utgi	嶬
 utgit	豔
 utgk	嵄
-uthd	巕
 uthm	嵯
 uthm	嵳
 uthn	凱
@@ -23587,6 +23595,7 @@ xcogs	鎸
 xcoir	鋡
 xcolb	鉓
 xcomb	錀
+xcomg	銋
 xcop	鈋
 xcpi	鈎
 xcrhu	兑
@@ -24300,6 +24309,7 @@ xmri	戨
 xmrii	砿
 xmrik	硥
 xmrmb	碽
+xmrmn	哥
 xmrmr	舙
 xmrnl	酃
 xmrno	砍
@@ -24698,7 +24708,6 @@ xssn	巪
 xsu	已
 xsuf	煕
 xsuv	妀
-xtakf	繤
 xtbc	蓥
 xtbd	荣
 xtbg	茔
@@ -24768,6 +24777,7 @@ xtk	艾
 xtkha	鴱
 xtkn	艽
 xtknl	郑
+xtkt	莽
 xtlmi	茧
 xtlpf	鷰
 xtlq	羋
@@ -26431,6 +26441,7 @@ bthm	䐤
 btlb	䐽
 btlc	䐵
 btlj	䐙
+btmb	䐽
 btmc	䐵
 btop	㬸
 btov	䑆
@@ -26788,6 +26799,7 @@ detwt	䵄
 deu	㟚
 deu	䴮
 devmi	䵁
+devmw	㿳
 devvw	㿳
 dewd	䴹
 deycb	䵂
@@ -28537,6 +28549,7 @@ idomn	䵉
 idomv	䵉
 idp	㥻
 idp	㦄
+idyjd	䢄
 idymr	䜆
 iec	䥭
 iehaf	䳊
@@ -28615,6 +28628,7 @@ iibu	䁉
 iif	㷱
 iiid	㕖
 iiif	㕘
+iilp	㡼
 iim	㦯
 iinl	䣌
 iish	㓪
@@ -28683,6 +28697,8 @@ iphk	䴠
 iphni	䴟
 iphqm	䴤
 ipife	䴪
+ipkni	䴟
+ipknk	䴟
 ipksr	䴥
 iplii	䘅
 ipmbc	䫲
@@ -31239,6 +31255,8 @@ pyhm	㦃
 pyhs	㤃
 pyib	㥔
 pyiu	㤝
+pyiu	㤺
+pyiv	㤺
 pykm	㦃
 pypd	㦆
 pyra	㥫
@@ -31434,6 +31452,7 @@ qsh	㧅
 qsit	㩜
 qslb	㧜
 qsmj	㩣
+qsmr	䂮
 qsmt	㩜
 qsog	㨤
 qsokc	䫨
@@ -31826,6 +31845,7 @@ sfhqo	䭿
 sfhqu	䭷
 sfhvl	䭹
 sfhxu	䮘
+sfih	䮅
 sfijb	䮒
 sfik	䭾
 sfike	䮂
@@ -32312,6 +32332,7 @@ tkkk	䔪
 tkmr	䓫
 tkmvn	㽀
 tknl	䣐
+tkoo	䔪
 tkpu	䓐
 tkrr	䖃
 tkt	㢣
@@ -33860,6 +33881,7 @@ ebtu	𣷣
 ebyj	𣂎
 eccc	𤅺
 eddv	𤂑
+edhd	𣸑
 edkf	𤄄
 edmd	𣸑
 edod	𣸯
@@ -33921,6 +33943,7 @@ esfi	𣻷
 esog	𣾀
 estt	𣸹
 estv	𣺹
+esuf	𤏁
 esyj	𣸹
 etbc	𤅎
 etcf	𪃡
